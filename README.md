@@ -55,7 +55,7 @@ I'm a 4th year ICT student passionate about full stack development and building 
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Niloy-Uthso&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloy-uthso&theme=radical" alt="GitHub Streak" />
 </p>
 
 
