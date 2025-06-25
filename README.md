@@ -51,15 +51,15 @@ I'm a 4th year ICT student passionate about full stack development and building 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=niloy-uthso&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Niloy-Uthso&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niloy-uthso&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niloy-Uthso&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-uthso&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niloy-Uthso&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
