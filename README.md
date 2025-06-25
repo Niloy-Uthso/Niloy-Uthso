@@ -1,6 +1,6 @@
 
 
-<img src="https://ibb.co/gG9BPBF" alt="Banner" width="100%" />
+<img src="https://i.ibb.co/Vd9PQPp/Screenshot-2025-06-25-141735.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hi, I'm Niloy Sarkar Uthso 👋</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
